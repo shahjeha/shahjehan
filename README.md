@@ -17,7 +17,7 @@ Passionate about ensuring software excellence with 5+ years of professional expe
 
 ### 💼 Professional Experience Highlights
 
-#### **Software Quality Engineer** | Prismecs *(March 2025 – Present)*
+#### **Software Quality Engineer** | Prismecs *(March 2024 – Present)*
 - **AI Chatbot Testing & Validation:** Conducted end-to-end testing of AI-powered Chatbots, validating user intent recognition, conversational logic flows, fallback mechanisms, and NLP accuracy.
 - **Automation Engineering:** Developed and maintained scalable automation test scripts using Selenium (Python) and Robot Framework to optimize web application regression cycles.
 - **Performance & Data Integrity:** Orchestrated load/stress testing using Apache JMeter and executed advanced SQL Joins to verify conversational logs and data integrity.
