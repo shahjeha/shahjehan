@@ -29,5 +29,3 @@ Passionate about ensuring software excellence with 5+ years of professional expe
 
 ---
 
-### 🚀 Featured Automation Projects
-*(Repositories coming soon)*
